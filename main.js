@@ -1,5 +1,6 @@
 var express = require('express');
 var http = require('http');
+var cors = require('cors');
 // import cors from 'cors';
 
 var app = express();
@@ -12,6 +13,10 @@ app.use(function(req, res, next) {
     next();
 });
 */
+
+app.use(cors({
+    origin: '*'
+}));
 
 const PORT = process.env.PORT || 3412;
 
