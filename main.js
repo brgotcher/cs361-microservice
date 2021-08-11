@@ -1,6 +1,6 @@
 var express = require('express');
 var http = require('http');
-import cors from 'cors';
+// import cors from 'cors';
 
 var app = express();
 /*
