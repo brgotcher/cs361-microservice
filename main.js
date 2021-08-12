@@ -40,6 +40,16 @@ dct = {
     "Eclipse": "https://images.hindustantimes.com/img/2021/05/26/550x309/_da5e6af0-ab06-11ea-bc4b-ba77fe6f99d0_1622030215013.jpg",
     "Trombone": "https://mixdownmag.com.au/wp-content/uploads/2021/01/mixdown-magazine-jupiter-trombone.jpg",
     "Orchestra": "https://images.techhive.com/images/article/2015/06/orchestra_tiltshift-100588867-primary.idge.jpg",
+    "Garage": "https://www.thespruce.com/thmb/Z1-PWFFDcmejdU3uSinXQX66mUU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/upscale-residential-house-has-neat-garage-168531302-588389105f9b58bdb36b0226.jpg",
+    "Platypus": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1148,w_2045,x_0,y_199/f_auto,q_auto,w_1100/v1554744537/shape/mentalfloss/63062-istock-658344164.jpg",
+    "Echidna": "https://www.australiangeographic.com.au/wp-content/uploads/2020/11/Echidna-01_Mayo-1800x1200.jpg",
+    "submarine": "https://navalpost.com/wp-content/uploads/2021/05/submarine-underwater-1-1024x577.jpg",
+    "Vineyard": "https://d2qc5xbha7dmp7.cloudfront.net/asw_images/10/82/2132801_large_c5ff16d4.jpg",
+    "Orchard": "https://www.croptracker.com/images/orchardView6x4.png",
+    "Condiments": "https://foodrevolution.org/wp-content/uploads/iStock-694593428.jpg",
+    
+    
+    
     
     
 
