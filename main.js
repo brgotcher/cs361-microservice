@@ -34,6 +34,13 @@ dct = {
     "Gymnasium": "https://d6vze32yv269z.cloudfront.net/32e1435e-50ad-45a8-a151-0aacfe7f5ac6/pages/images/img_8285-bj0znt.jpg",
     "Helicopter": "https://cdn.vox-cdn.com/thumbor/zTEe0PixI4EmHamgaX14-EVAfCM=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/15394156/D85_1824.jpg",
     "Intersection": "https://images.unsplash.com/photo-1567563549378-81212b9631e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJzZWN0aW9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    "Galaxy": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andromeda_Galaxy_560mm_FL.jpg",
+    "Satellite": "https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2021/4/stock/210423-satcom.jpg",
+    "Railroad": "https://i0.wp.com/www.differencebetween.com/wp-content/uploads/2015/04/Difference-Between-Railway-and-Railroad_Railroad.jpg?resize=550%2C347&ssl=1",
+    "Eclipse": "https://images.hindustantimes.com/img/2021/05/26/550x309/_da5e6af0-ab06-11ea-bc4b-ba77fe6f99d0_1622030215013.jpg",
+    "Trombone": "https://mixdownmag.com.au/wp-content/uploads/2021/01/mixdown-magazine-jupiter-trombone.jpg",
+    "Orchestra": "https://images.techhive.com/images/article/2015/06/orchestra_tiltshift-100588867-primary.idge.jpg",
+    
     
 
 
