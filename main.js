@@ -47,6 +47,9 @@ dct = {
     "Vineyard": "https://d2qc5xbha7dmp7.cloudfront.net/asw_images/10/82/2132801_large_c5ff16d4.jpg",
     "Orchard": "https://www.croptracker.com/images/orchardView6x4.png",
     "Condiments": "https://foodrevolution.org/wp-content/uploads/iStock-694593428.jpg",
+    "Furniture": "https://germanheritagefurn.com/wp-content/uploads/2020/11/furniture-pieces-1024x585.jpg.webp",
+    "Capitol": "https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG",
+    "Charcuterie": "https://i2.wp.com/cheerfulchoices.com/wp-content/uploads/2021/02/Valentines-Day-Charcuterie-Board-1.jpeg?resize=750%2C500&ssl=1",
     
     
     
