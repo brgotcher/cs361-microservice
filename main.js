@@ -62,6 +62,10 @@ dct = {
     "desert": "https://www.thoughtco.com/thmb/kMdaPu6HY0QViokREKnisC-8784=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-685791488-6817eac67e474ccd8d84ff4a80e517cf.jpg",
     "horse": "https://stablemanagement.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_600/MTQ1MDY3NjE4MDE2NTAzMTQz/horse-grazing-pasture-1500.webp",
     "Elbow": "https://www.physiofitcambridge.co.uk/wp-content/uploads/2017/06/Golfers-Elbow-site-of-pain.png",
+    "Trailer": "https://dealer-cdn.com/showroom-files/trailerZ969a7073b.jpg",
+    "Heart": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Heart_anterior_exterior_view.jpg",
+    "Lemons": "https://minnetonkaorchards.com/wp-content/uploads/2021/04/Health-Benefits-of-Lemons.jpg",
+    "Limes": "https://farmflavor.com/wp-content/uploads/2020/05/abundance-calamansis-calamondins-2363347.jpg",
 
     
     
