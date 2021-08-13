@@ -50,6 +50,19 @@ dct = {
     "Furniture": "https://germanheritagefurn.com/wp-content/uploads/2020/11/furniture-pieces-1024x585.jpg.webp",
     "Capitol": "https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG",
     "Charcuterie": "https://i2.wp.com/cheerfulchoices.com/wp-content/uploads/2021/02/Valentines-Day-Charcuterie-Board-1.jpeg?resize=750%2C500&ssl=1",
+    "Street": "https://www.voicesofyouth.org/sites/voy/files/images/2020-09/246bae61-72e5-4087-a7c0-f5c5576c6e13.jpeg",
+    "Desserts": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/Boston-Market-Desserts.jpg?itok=XZxDRoin",
+    "Earth": "https://i.gadgets360cdn.com/large/earth_large_1598600383967.jpg?downsize=950:*&output-quality=80&output-format=webp",
+    "Canoe": "https://cdn11.bigcommerce.com/s-8trdi5a57j/images/stencil/400x400/products/4497/6037/Firstpaddleseatdetail__56494.1597268231.jpg?c=1",
+    "Wolves": "https://thumbs-prod.si-cdn.com/S3jjobkpQFn2ZfMMcVQFK7ChxtY=/800x600/filters:no_upscale():focal(754x502:755x503)/https://public-media.si-cdn.com/filer/b2/9e/b29edee7-c3b1-4dc1-a278-e3ea4290d31d/gettyimages-1184378069_web.jpg",
+    "Kitchen": "https://cdn.trendswoodfinishing.com/wp-content/uploads/2016/03/glass-doorcab.jpg",
+    "Present": "https://zehirablog.files.wordpress.com/2013/12/christmas-present-2.jpg",
+    "Tacos": "https://i.imgur.com/vnzL7uN.jpeg",
+    "Bread": "https://www.thespruceeats.com/easy-honey-white-bread-recipe-428160",
+    "desert": "https://www.thoughtco.com/thmb/kMdaPu6HY0QViokREKnisC-8784=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-685791488-6817eac67e474ccd8d84ff4a80e517cf.jpg",
+    "horse": "https://stablemanagement.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_600/MTQ1MDY3NjE4MDE2NTAzMTQz/horse-grazing-pasture-1500.webp",
+    "Elbow": "https://www.physiofitcambridge.co.uk/wp-content/uploads/2017/06/Golfers-Elbow-site-of-pain.png",
+
     
     
     
