@@ -66,6 +66,11 @@ dct = {
     "Heart": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Heart_anterior_exterior_view.jpg",
     "Lemons": "https://minnetonkaorchards.com/wp-content/uploads/2021/04/Health-Benefits-of-Lemons.jpg",
     "Limes": "https://farmflavor.com/wp-content/uploads/2020/05/abundance-calamansis-calamondins-2363347.jpg",
+    "Dice": "https://cdn.shopify.com/s/files/1/0187/2004/products/LuckyDice-1_1024x1024.jpg?v=1608245761",
+    "Dome": "https://images.unsplash.com/photo-1596734203373-1f8888b59f23?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80",
+    "Snail": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/helix-pomatia-burgundy-snail-400x300.jpg",
+    "Tires": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/09/tires-626x382.jpg?resize=980:*",
+    
 
     
     
