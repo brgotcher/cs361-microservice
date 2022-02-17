@@ -1,18 +1,9 @@
 var express = require('express');
 var http = require('http');
 var cors = require('cors');
-// import cors from 'cors';
 
 var app = express();
-/*
-app.use(function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", '*');
-    res.header("Access-Control-Allow-Credentials", true);
-    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
-    res.header("Access-Control-Allow-Headers", 'Origin,X-Requested-With,Content-Type,Accept,content-type,application/json');
-    next();
-});
-*/
+
 
 app.use(cors({
     origin: '*'
@@ -20,10 +11,7 @@ app.use(cors({
 
 const PORT = process.env.PORT || 3412;
 
-// http.createServer(function(req,res){
-//      res.writeHead(200, { 'Content-Type': 'text/plain' });
-//      res.end("Hello world!");
-// }).listen(3412);
+
 
 dct = {
     "Elephant": "https://images.theconversation.com/files/230552/original/file-20180803-41366-8x4waf.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
@@ -70,13 +58,6 @@ dct = {
     "Dome": "https://images.unsplash.com/photo-1596734203373-1f8888b59f23?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80",
     "Snail": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/helix-pomatia-burgundy-snail-400x300.jpg",
     "Tires": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/09/tires-626x382.jpg?resize=980:*",
-    
-
-    
-    
-    
-    
-    
 
 
 }
